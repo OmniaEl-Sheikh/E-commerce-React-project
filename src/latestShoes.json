@@ -1,0 +1,27 @@
+{
+  "1": {
+    "name": "Off Shoulders Women's Summer Dress",
+    "img": "https://m.media-amazon.com/images/I/61-730+fDLL._AC_UL480_FMwebp_QL65_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/61-730+fDLL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 250.00
+  },
+  "2": {
+    "name": "Shoes",
+    "img": "https://m.media-amazon.com/images/I/71Cc3JcCN7L._AC_SR700,525_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/717eNWShX9L._AC_SR700,525_.jpg",
+    "price": 100.00 
+  },
+   "3": {
+    "name": "New Apple iPhone 14 Pro Max (256 GB)",
+    "img": "https://m.media-amazon.com/images/I/71yzJoE7WlL._AC_UL480_QL65_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71yzJoE7WlL._AC_UL480_QL65_.jpg",
+    "price": 57500.00
+  },
+  "4": {
+    "name": "Analog Watch Metal For Men Black",
+    "img2": "https://m.media-amazon.com/images/I/61HUntTfCjL._AC_UL480_QL65_.jpg",
+    "img": "https://m.media-amazon.com/images/I/61HUntTfCjL._AC_UL480_QL65_.jpg",
+    "price": 130.00
+  }
+  
+}

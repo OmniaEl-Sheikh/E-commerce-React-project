@@ -1,0 +1,63 @@
+{ 
+  "1": {
+    "name": "Off Shoulders Women's Summer Dress",
+    "img": "https://m.media-amazon.com/images/I/61-730+fDLL._AC_UL480_FMwebp_QL65_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/61-730+fDLL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 250.00
+  },
+  "2": {
+    "name": "Shoes",
+    "img": "https://m.media-amazon.com/images/I/71Cc3JcCN7L._AC_SR700,525_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/717eNWShX9L._AC_SR700,525_.jpg",
+    "price": 100.00 
+  },
+   "3": {
+    "name": "New Apple iPhone 14 Pro Max (256 GB)",
+    "img": "https://m.media-amazon.com/images/I/71yzJoE7WlL._AC_UL480_QL65_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71yzJoE7WlL._AC_UL480_QL65_.jpg",
+    "price": 57500.00
+  },
+  "4": {
+    "name": "Analog Watch Metal For Men Black",
+    "img2": "https://m.media-amazon.com/images/I/61HUntTfCjL._AC_UL480_QL65_.jpg",
+    "img": "https://m.media-amazon.com/images/I/61HUntTfCjL._AC_UL480_QL65_.jpg",
+    "price": 130.00
+  },
+  "5": {
+    "name": "Wireless earbuds earphones",
+    "img": "https://m.media-amazon.com/images/I/41OMU-O8mYS._AC_UL480_FMwebp_QL65_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/41OMU-O8mYS._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 360.00
+  },
+  "6": {
+    "name": "Dolphin ring For Unisex - Silver",
+    "img2": "https://m.media-amazon.com/images/I/31n3a5zqt2S._AC_UL480_QL65_.jpg",
+    "img": "https://m.media-amazon.com/images/I/31n3a5zqt2S._AC_UL480_QL65_.jpg",
+    "price": 170.00
+  },
+  "7": {
+    "name": "DELONGHI Coffee Machine (Black)",
+    "img": "https://m.media-amazon.com/images/I/61bbrTavcrL._AC_SX679_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/61bbrTavcrL._AC_SX679_.jpg",
+    "price": 570.00
+  },
+  "8": {
+    "name": "Huda Beauty Nude Eyeshadow Palette",
+    "img2": "https://m.media-amazon.com/images/I/61aR7d9ZnXL._AC_SY200_.jpg",
+    "img": "https://m.media-amazon.com/images/I/61aR7d9ZnXL._AC_SY200_.jpg",
+    "price": 1500.00
+  },
+  "9": {
+    "name": "Modern Men's Ultra Slim Laptop",
+    "img": "https://m.media-amazon.com/images/I/51JDbzN49hL._AC_UL480_QL65_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/51JDbzN49hL._AC_UL480_QL65_.jpg",
+    "price": 270.00
+  },
+  "10": {
+    "name": "Quattro TV Table Rolls+Shelf+Divider",
+    "img2": "https://m.media-amazon.com/images/I/41wshV9aSkL._AC_.jpg",
+    "img": "https://m.media-amazon.com/images/I/41wshV9aSkL._AC_.jpg",
+    "price": 2500.00
+  }
+  
+}
